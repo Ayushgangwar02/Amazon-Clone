@@ -31,9 +31,11 @@ Hosting: Vercel/Netlify/Heroku
 
 # 📸 Screenshots
 
-![Screenshot 2025-05-23 115229](https://github.com/user-attachments/assets/fc2496b8-ba46-4f6e-b6c3-62d4090851e3)
-
+# Front Page
 ![Screenshot 2025-05-23 115138](https://github.com/user-attachments/assets/969626c9-8726-4e15-ad1c-388a55a4b0b4)
+
+# Bottom Page
+![Screenshot 2025-05-23 115229](https://github.com/user-attachments/assets/fc2496b8-ba46-4f6e-b6c3-62d4090851e3)
 
 # 📂 Installation Steps-
 # Clone the repo
